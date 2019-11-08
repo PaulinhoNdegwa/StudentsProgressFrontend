@@ -1,0 +1,9 @@
+#student-details {
+    margin: 5%;
+    /* margin-bottom: 30px; */
+}
+
+.student-details-header {
+    margin: 15px;
+    text-decoration: underline;
+}
